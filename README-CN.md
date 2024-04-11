@@ -236,7 +236,7 @@ LangChain 是一个令人惊叹的框架，可以让 LLM 项目在短时间内�
 - [LangChain James Briggs 的播放列表](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [格雷格·卡姆拉特播放列表](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 
-## 其他法学硕士框架
+## 其他 LLM 框架
 
 - [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)：在 Transformers 之上提供自然语言 API
 - [LlamaIndex](https://github.com/jerryjliu/llama_index)：提供一个中央接口，将您的法学硕士与外部数据连接起来。 ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
